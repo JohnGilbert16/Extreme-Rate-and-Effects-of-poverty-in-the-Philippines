@@ -11,7 +11,6 @@ To the government. It will provide information that will help the Government spe
 To the academe. The success of this research is the success of the academe. Researchers have the great support from the university including the library resources and the instructors. The academe may use this research as a guide in teaching the next researchers.
 To the researchers. The researchers' will be benifited by this study as it is a great opportunity once this study succed and will help a lot of filipino people and the increasing rate of poverty in the Philippines.
 To the future researchers. It will help them to formulate another study that is related to this topic. They can also identify the strengths as well as the weaknesses of this study in order to improve, develop, and emphasize those weaknesses in formulating an accurate conclusions or possible problem solutions for this topic.
-
 # Methods
 
 # Expected outcome
