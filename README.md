@@ -1,4 +1,9 @@
 # Introduction 
+Having poor people is unethical and unfair. It is also dangerous for the country's future. The Philippines' rapid population growth has contributed to the country's growing poverty. The effects of poverty are visible in the nature of the Philippines.
+Many people do not go to school due to the financial problems they face. Others seem to be content with their lives as poor. Consequently, the Philippines' poverty is anticipated to rise as a result of the corona virus outbreak. This will result in lower consumption growth and additional revenue losses. 
+As a result, stronger measures are needed to combat poverty in the Philippines in the face of the pandemic, which has disproportionately affected the poor. With more than 16 percent of the population living in poverty, the Philippines have a pretty high poverty rate. About 17.6 million Filipinos are unable to afford basic necessities due to the large number of people who rely on agriculture for a living and wealth inequality. 
+Poverty decreased from 21.6 percent to 16.6 percent between 2015 and 2020. President Rodrigo Duterte of the Philippines wants to reduce poverty to 14% by 2022. The Philippine government's AmBisyon 2040 initiative aims to eliminate extreme poverty by 2040. Furthermore, the government has adopted a number of programs and reforms aimed at reducing poverty, particularly in the areas of education, healthcare, and the economy as a whole.
+Here are five ways the program is helping the Philippines combat poverty: :Greater Access to Education, Greater Access to Healthcare, Family Aid, Economic Improvement, and lastly, Build, Build, Build, the Duterte administration created the “Build, Build, Build” infrastructure plan in 2017. The initial goal of the program was to complete 75 projects, but Duterte revised the plan to instead target finishinh 100 project.
 
 # Problem Statement
  
@@ -11,6 +16,7 @@ To the government. It will provide information that will help the Government spe
 To the academe. The success of this research is the success of the academe. Researchers have the great support from the university including the library resources and the instructors. The academe may use this research as a guide in teaching the next researchers.
 To the researchers. The researchers' will be benifited by this study as it is a great opportunity once this study succed and will help a lot of filipino people and the increasing rate of poverty in the Philippines.
 To the future researchers. It will help them to formulate another study that is related to this topic. They can also identify the strengths as well as the weaknesses of this study in order to improve, develop, and emphasize those weaknesses in formulating an accurate conclusions or possible problem solutions for this topic.
+
 # Methods
 
 # Expected outcome
