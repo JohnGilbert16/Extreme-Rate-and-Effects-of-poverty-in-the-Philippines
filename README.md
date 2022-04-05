@@ -3,7 +3,6 @@
 # Problem Statement
  
 # Significance of the study
-Significance of the study
 This study tells the benefits and importance of the researchers' eagerness to conduct this study. It is benefits to the Filipino people, government, academe, the researchers, and the future researchers. This study will benefit the following.
 To the students. Students are basically one of the top three biggest beneficiary of this study. As poverty continue to arise from time to time and decreasing rate of kids going to school, the researchers' came to an idea to provide scholarship to the students with inclination to studying but do not have the money to afford the tuition fees provided from the taxes of SME's given and helped by the government.
 To the filipino workers. The success of a filipino worker is a success of the government. As government help provide job, high rate of employment will rise and high taxes will be collected.
