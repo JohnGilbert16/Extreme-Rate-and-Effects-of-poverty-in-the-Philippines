@@ -34,3 +34,9 @@ Targeting the education first to resolve the poverty owning to the fact that one
 Providing the materials needed in school/s foe each student and making sure that the child is enroll even if it was in rural areas, by having education we can provide a skilled people that help the economic growth prior to that it can bring more opportunities for employment. 
 Achieving the affordable and good quality of rice is help to local farmers to stabilize the production doing that by investing to agriculture it would help the farmers to produce more. 
 The connection between economic growth and poverty are creating more opportunities and income growth, one of the solution to resolve the problem from poverty is to increase the minimum salary wage, but other tools such as earned income tax credits might be suited.
+
+# Reference
+https://data.adb.org/dashboard/philippines-numbers
+https://www.adb.org/publications/poverty-philippines-causes-constraints-and-opportunities
+https://borgenproject.org/education-will-help-end-poverty/
+https://mb.com.ph/2021/11/08/ways-to-support-filipino-farmers-during-and-beyond-the-national-rice-awareness-month/
