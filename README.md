@@ -41,3 +41,5 @@ The connection between economic growth and poverty are creating more opportuniti
 * https://mb.com.ph/2021/11/08/ways-to-support-filipino-farmers-during-and-beyond-the-national-rice-awareness-month/
 * https://www.minneapolisfed.org/article/2006/the-connection-between-poverty-and-the-economy
 * https://borgenproject.org/tag/poverty-in-the-philippines/
+* https://2012-2017.usaid.gov/frontiers/2014/publication/section-1-extreme-poverty-philippines
+* https://www.gmanetwork.com/news/lifestyle/food/720331/the-rice-tariffication-law-and-how-it-affects-you/story/
