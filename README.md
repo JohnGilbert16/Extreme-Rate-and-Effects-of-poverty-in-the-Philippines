@@ -35,9 +35,11 @@ Providing the materials needed in school/s foe each student and making sure that
 Achieving the affordable and good quality of rice is help to local farmers to stabilize the production doing that by investing to agriculture it would help the farmers to produce more. 
 The connection between economic growth and poverty are creating more opportunities and income growth, one of the solution to resolve the problem from poverty is to increase the minimum salary wage, but other tools such as earned income tax credits might be suited.
 
-# Reference
+# Data Sets
 * https://data.adb.org/dashboard/philippines-numbers
 * https://www.adb.org/publications/poverty-philippines-causes-constraints-and-opportunities
+
+# Reference
 * https://openknowledge.worldbank.org/handle/10986/19109
 * https://borgenproject.org/education-will-help-end-poverty/
 * https://mb.com.ph/2021/11/08/ways-to-support-filipino-farmers-during-and-beyond-the-national-rice-awareness-month/
