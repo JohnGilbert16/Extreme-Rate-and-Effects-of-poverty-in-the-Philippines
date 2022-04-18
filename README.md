@@ -36,6 +36,7 @@ Achieving the affordable and good quality of rice is help to local farmers to st
 The connection between economic growth and poverty are creating more opportunities and income growth, one of the solution to resolve the problem from poverty is to increase the minimum salary wage, but other tools such as earned income tax credits might be suited.
 
 # Data Sets
+ADB(Asian Development Bank) data library
 * https://data.adb.org/dashboard/philippines-numbers
 * https://www.adb.org/publications/poverty-philippines-causes-constraints-and-opportunities
 
