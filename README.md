@@ -30,15 +30,8 @@ This study tells the benefits and importance of the researchers' eagerness to co
 # Methods
 For analyzing poverty in the country, the study used a comprehensive framework. It focuses at the key aspects that are important for poverty reduction, such as increasing the income, human capital, and capacity; risk mitigation; and governance and institutional voice and empowerment. It assesses the poverty condition in relation to the country's overall development using both quantitative (trends in poverty and related indicators data, regression analysis for poverty correlates) and qualitative (personal interviews interviews) analysis. A conference was conducted to address the study's findings, solicit comments from relevant stakeholders, and to provide concrete, concrete advice. A mapping analysis of institutional responses to the country's current situation of poverty was also conducted.
 # Expected outcome
-Targeting the education first to resolve the poverty owning to the fact that one of the main reason for today’s tragedy and often comes from generation prior that also lacked of schooling and some adolescent who experience poverty is unable to read or do mathematics. By properly educating the new generation, poverty rate could reduce significantly. Here’s a few that can be focus to educate the new generation: Health, Mortality rate, and Income and economic growth.
-Providing the materials needed in school/s foe each student and making sure that the child is enroll even if it was in rural areas, by having education we can provide a skilled people that help the economic growth prior to that it can bring more opportunities for employment. 
-Achieving the affordable and good quality of rice is help to local farmers to stabilize the production doing that by investing to agriculture it would help the farmers to produce more. 
-The connection between economic growth and poverty are creating more opportunities and income growth, one of the solution to resolve the problem from poverty is to increase the minimum salary wage, but other tools such as earned income tax credits might be suited.
+This investegation will look for into the some causes of the poverty in the Philippines. The datasets is from Philippine Statistical Authority and Ceic data. The Philippines is one of the blessed country because of the of it's own natural resources. Resolving the poverty by using the natural reources and one of the best to do is to focus in farming, and by achieving that the government must help the local farmers to stabilize the prouction doing by invetsing in agriculture,education ne of the main reason for today’s tragedy and often comes from generation prior that also lacked of schooling and some adolescent who experience poverty is unable to read or do mathematics.  
 
-# Data Sets
-ADB(Asian Development Bank) data library
-* https://data.adb.org/dashboard/philippines-numbers
-* https://www.adb.org/publications/poverty-philippines-causes-constraints-and-opportunities
 
 # Reference
 * https://openknowledge.worldbank.org/handle/10986/19109
