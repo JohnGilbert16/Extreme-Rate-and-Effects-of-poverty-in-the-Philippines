@@ -7,8 +7,9 @@ Here are five ways the program is helping the Philippines combat poverty: :Great
 
 # Problem Statement
 
-
-
+The First Semester 2021 poverty incidence among population, or the proportion of poor Filipinos whose per capita income is not sufficient to meet their basic food and non-food needs, was estimated at 23.7 percent.(https://psa.gov.ph/about 2021)
+As stated above, as of 2021 poverty and its population including the proportion of Filipinos belonging to each person's income is adequate to sustain the basic things needed and food is Estimated at 23.7%. This is very surprising and sad to the both who are able to work hard but suddenly cannot sustain the other basic needs and food because it's just enough for them and some of them have not to save some allowance for some financial need like for medicines, allowances, and other bills. Most of them are taking the advantages of budgeting it even its not enough because also of rapidly increasing of amount of prices products. In  Farmers, fisherman, and individuals that live in the rural and  urban  area. Including also the PWD, children, and youth, There are some affecting the particular person of the population that is experiencing poverty.  Causing their amount of capital income per month cannot consume the basic needs, and food.
+This is sad that in the year 2021 there will be many poor Filipinos, moreover there are increasing numbers. Many solutions and subsidies are implemented among that. In terms of financial allowance for the family that have qualified that is particular is unemployed or self employed and single parents. To help them to reduce some budget to meet their daily basic needs  of food and things.  In Dole that have a bonus and allowances in some particular company and production. In Education to some students that need somes financial assistance is also provided. And many classrooms are built.
 
 
 # Significance of the study
@@ -23,6 +24,7 @@ This study tells the benefits and importance of the researchers' eagerness to co
 
 # Methods
 For analyzing poverty in the country, the study used a comprehensive framework. It focuses at the key aspects that are important for poverty reduction, such as increasing the income, human capital, and capacity; risk mitigation; and governance and institutional voice and empowerment. It assesses the poverty condition in relation to the country's overall development using both quantitative (trends in poverty and related indicators data, regression analysis for poverty correlates) and qualitative (personal interviews interviews) analysis. A conference was conducted to address the study's findings, solicit comments from relevant stakeholders, and to provide concrete, concrete advice. A mapping analysis of institutional responses to the country's current situation of poverty was also conducted.
+
 # Expected outcome
 This investegation will look for into the some causes of the poverty in the Philippines. The datasets is from Philippine Statistical Authority and Ceic data. The Philippines is one of the blessed country because of the of it's own natural resources. Resolving the poverty by using the natural reources and one of the best to do is to focus in farming, and by achieving that the government must help the local farmers to stabilize the prouction doing by invetsing in agriculture,education ne of the main reason for today’s tragedy and often comes from generation prior that also lacked of schooling and some adolescent who experience poverty is unable to read or do mathematics.  
 
@@ -35,3 +37,4 @@ This investegation will look for into the some causes of the poverty in the Phil
 * https://borgenproject.org/tag/poverty-in-the-philippines/
 * https://2012-2017.usaid.gov/frontiers/2014/publication/section-1-extreme-poverty-philippines
 * https://www.gmanetwork.com/news/lifestyle/food/720331/the-rice-tariffication-law-and-how-it-affects-you/story/
+* https://psa.gov.ph/poverty-press-releases?page=4
